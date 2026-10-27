@@ -9,6 +9,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello! Spring Boot CI/CD deployment is successful.";
+        return "Hello! Spring Boot CI/CD deployment is successful completed!.";
     }
 }
